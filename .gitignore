@@ -38,3 +38,6 @@ htmlcov/
 Thumbs.db
 __pyscache__/
 *.log
+.venv/lib
+\_PyScrAI\.venv\bin
+.venv\Include\site\python3.12\greenlet\greenlet.h
